@@ -1,4 +1,1 @@
-def main():
-    return render.Root(
-        child = render.Text("Hello, World!")
-    )
+
